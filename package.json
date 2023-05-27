@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {
+    "@types/jquery": "3.3.33",
+    "gulp": "4.0.2"
+  },
+  "dependencies": {
+    "globalize": "^1.7.0"
+  }
+}
